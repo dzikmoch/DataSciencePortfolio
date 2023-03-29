@@ -14,34 +14,31 @@ This software is a BIM interoperable web platform for integrated design, constru
 
    > **Note**<br>
    > Code for this project cannot be shown as it is commercial and already sold to the client.
-<br>
 
    **Used tools:** Python, Pandas, NumPy, TensorFlow, Matplotlib, Docker, PostgreSQL, JavaScript, HTML, AWS<br>
 
-2. Jet Grouting (JG) columns diameter prediction with ML model. [GitHub repository](https://github.com/dzikmoch/Portfolio/02_JG_diameter) <br>
+2. Jet Grouting (JG) columns diameter prediction with ML model. [GitHub repository](https://github.com/dzikmoch/Portfolio/tree/main/02_JG_diameter) <br>
 This study focuses on a database comprising of 248 entries representing properties of jet grouting columns, with 8 variables. The first part of the study involves performing exploratory data analysis, including both uni and multivariate analysis on the selected features. Furthermore, a machine learning model is proposed to predict the diameter of the JG column.
 <br>
+
    > **Note**<br>
    > An initial study on a significantly smaller database has been publish in scientific article:<br> **Ochmański M.**, Modoni G. and Bzówka J. (2015): *Prediction of the diameter of Jet Grouting columns with Artificial Neural Networks*, Soils and foundations, Vol. 55, Issue 2, pp. 425-436, doi: [10.1016/j.sandf.2015.02.016](https://doi.org/10.1016/j.sandf.2015.02.016)
-<br>
 
    **Used tools:** Python, Jupyter, Pandas, NumPy, Tensorflow, Seaborn, Matplotlib<br>
 
-3. Study on the role of polymer additive to increase strength of DSM columns. [GitHub repository](https://github.com/dzikmoch/Portfolio/03_DSM_conditioning)<br>
+3. Study on the role of polymer additive to increase strength of DSM columns. [GitHub repository](https://github.com/dzikmoch/Portfolio/tree/main/03_DSM_conditioning)<br>
 
 
    > **Note**<br>
    > This study has been publish in scientific article:<br>
    Salvatore E., Modoni G., Spagnoli G., Arciero M., Mascolo M.C., **Ochmański M.** (2022): *Conditioning clayey soils with a dispersant agent for Deep Soil Mixing application: laboratory experiments and artificial neural network interpretation*. ACTA Geotechnica, doi: [10.1007/s11440-022-01505-9](https://doi.org/10.1007/s11440-022-01505-9)
-<br>
 
    **Used tools:** Python, NumPy, Pyrenn<br>
 
-4. Jet Grouting simulator - web app for design of Jet Grouting (JG) systems. [GitHub repository](https://github.com/dzikmoch/Portfolio/04_JG_plant)<br>
+4. Jet Grouting simulator - web app for design of Jet Grouting (JG) systems. [GitHub repository](https://github.com/dzikmoch/Portfolio/tree/main/04_JG_plant)<br>
 This software incorporates numerical analysis, specifically computational fluid dynamics (CFD), to simulate the response of individual components within a jet grouting plant. To predict the diameter of the jet grouting (JG) columns, ML algorithms were employed to establish relationships between different variables.<br>
    > **Note**<br>
    > Unfortunately, the code for this project cannot be shared due to its commercial nature and delivery to the client.
-<br>
 
    **Used tools:** Python, Pandas, NumPy, TensorFlow, Matplotlib, JavaScript, HTML<br>
 
