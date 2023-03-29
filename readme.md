@@ -19,7 +19,6 @@ This software is a BIM interoperable web platform for integrated design, constru
 
 2. Jet Grouting (JG) columns diameter prediction with ML model. [GitHub repository](https://github.com/dzikmoch/Portfolio/tree/main/02_JG_diameter) <br>
 This study focuses on a database comprising of 248 entries representing properties of jet grouting columns, with 8 variables. The first part of the study involves performing exploratory data analysis, including both uni and multivariate analysis on the selected features. Furthermore, a machine learning model is proposed to predict the diameter of the JG column.
-<br>
 
    > **Note**<br>
    > An initial study on a significantly smaller database has been publish in scientific article:<br> **Ochmański M.**, Modoni G. and Bzówka J. (2015): *Prediction of the diameter of Jet Grouting columns with Artificial Neural Networks*, Soils and foundations, Vol. 55, Issue 2, pp. 425-436, doi: [10.1016/j.sandf.2015.02.016](https://doi.org/10.1016/j.sandf.2015.02.016)
