@@ -5,12 +5,12 @@ This portfolio demonstrates my proficiency in using the following tools:
 Python, Jupyter, Pandas, NumPy, TensorFlow, sklearn, Seaborn, Matplotlib and many more...
 <br><br>
 
-# Contents
+# List of projects
 
 1. TUNDER - Tunnelling design, execution & reporting. [www.tunder.cloud](https://www.tunder.cloud)<br>
 This software is a BIM interoperable web platform for integrated design, construction and management of mechanized tunnelling processes. It allows for intuitive assignment of structural and geotechnical conditions together with comprehensive assessment of ultimate limit state (ULS) and serviceability limit state (SLS) is the main strength of design module. It provides execution platform for the real time cataloguing, reporting and interpretation of construction and field monitoring data.<br>
 
-   Empirical and analytical methods were used in the design module. Machine learning has been applied in the execution module to predict ground response ahead of the tunnel face. 
+   Several empirical and analytical methods were used in the design module. Machine learning algorithms (DNN) have been used in the execution module to interpret time-series and predict ground response (deformations) ahead of the tunnel face.
 
    > **Note**<br>
    > Code for this project cannot be shown as it is commercial and already sold to the client.
@@ -18,7 +18,7 @@ This software is a BIM interoperable web platform for integrated design, constru
    **Used tools:** Python, Pandas, NumPy, TensorFlow, Matplotlib, Docker, PostgreSQL, JavaScript, HTML, AWS<br>
 
 2. Jet Grouting (JG) columns diameter prediction with ML model. [GitHub repository](https://github.com/dzikmoch/Portfolio/tree/main/02_JG_diameter) <br>
-This study focuses on a database comprising of 248 entries representing properties of jet grouting columns, with 8 variables. The first part of the study involves performing exploratory data analysis, including both uni and multivariate analysis on the selected features. Furthermore, a machine learning model is proposed to predict the diameter of the JG column.
+This study focuses on a database comprising of 248 entries representing properties of jet grouting columns, with 8 variables. The first part of this work involves performing exploratory data analysis, including both uni and multivariate analysis on the selected features. Furthermore, a machine learning model is proposed to predict the diameter of the JG column.
 
    > **Note**<br>
    > An initial study on a significantly smaller database has been publish in scientific article:<br> **Ochmański M.**, Modoni G. and Bzówka J. (2015): *Prediction of the diameter of Jet Grouting columns with Artificial Neural Networks*, Soils and foundations, Vol. 55, Issue 2, pp. 425-436, doi: [10.1016/j.sandf.2015.02.016](https://doi.org/10.1016/j.sandf.2015.02.016)
@@ -26,7 +26,7 @@ This study focuses on a database comprising of 248 entries representing properti
    **Used tools:** Python, Jupyter, Pandas, NumPy, Tensorflow, Seaborn, Matplotlib<br>
 
 3. Study on the role of polymer additive to increase strength of DSM columns. [GitHub repository](https://github.com/dzikmoch/Portfolio/tree/main/03_DSM_conditioning)<br>
-
+This project is based on a very small database, i.e. 89 entries, described by 4 input variables and one target. Python pyrenn library has been used to carry out this study. Simple DNN was prepared and successflully adopted to produce design charts (see article below).
 
    > **Note**<br>
    > This study has been publish in scientific article:<br>
@@ -34,7 +34,7 @@ This study focuses on a database comprising of 248 entries representing properti
 
    **Used tools:** Python, NumPy, Pyrenn<br>
 
-4. Jet Grouting simulator - web app for design of Jet Grouting (JG) systems. [GitHub repository](https://github.com/dzikmoch/Portfolio/tree/main/04_JG_plant)<br>
+4. Jet Grouting simulator - web app for design of Jet Grouting (JG) systems. [GitHub repository](https://github.com/dzikmoch/Portfolio/tree/main/04_JG_plant) (available soon)<br>
 This software incorporates numerical analysis, specifically computational fluid dynamics (CFD), to simulate the response of individual components within a jet grouting plant. To predict the diameter of the jet grouting (JG) columns, ML algorithms were employed to establish relationships between different variables.<br>
    > **Note**<br>
    > Unfortunately, the code for this project cannot be shared due to its commercial nature and delivery to the client.
@@ -43,7 +43,7 @@ This software incorporates numerical analysis, specifically computational fluid 
 
 <br>
 
-## List of scientific articles
+# List of scientific articles
 
 I am author or co-author of more than 40 scientific articles from which the most significant are listed below.
 
@@ -63,7 +63,7 @@ I am author or co-author of more than 40 scientific articles from which the most
 
 <br>
 
-## List of conferences (attendence as a speaker)
+# List of conferences (attendence as a speaker)
 * [2021] 32<sup>nd</sup> ALERT Workshop, 27 September – 2nd October 2021, Aussois, France
 * [2019] 7<sup>th</sup> International Conference on Earthquake Geotechnical Engineering; Rome, Italy
 * [2019] 14<sup>th</sup> International Conference “Underground Construction Prague 2019”; Prague, Czech Republic
